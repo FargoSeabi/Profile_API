@@ -3,6 +3,11 @@
 A simple **Profile API** built with **Node.js and Express** that allows you to **create, read, update, and delete profiles**.
 Includes a **web dashboard** to manage profiles visually.
 
+#Preview
+## 📸 Preview
+
+![Profile APO Preview](Profile-preview.png)
+
 ---
 
 ## Features
