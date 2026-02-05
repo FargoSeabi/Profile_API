@@ -1,0 +1,17 @@
+
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "Simple Profile API with test data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
